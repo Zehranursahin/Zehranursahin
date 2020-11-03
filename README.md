@@ -1,6 +1,8 @@
 
 
-# Hi There :wave:
+# Hi There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
+
+<img align="right" height="290" src="https://raw.githubusercontent.com/Zehranursahin/Zehranursahin/main/zehra.gif" />
 
 - 💻 I'm a Software Engineering Student, Developer.
 - 👑 Software Engineering Club President.
