@@ -4,7 +4,7 @@
 
 <img align="right" height="290" src="https://raw.githubusercontent.com/Zehranursahin/Zehranursahin/main/zehra.gif" />
 
-- 💻 I'm a Software Engineering Student, Developer.
+- 💻 I'm a Software Engineer.
 - 👑 Software Engineering Club President.
 - 🌱 I’m currently learning everything.
 
